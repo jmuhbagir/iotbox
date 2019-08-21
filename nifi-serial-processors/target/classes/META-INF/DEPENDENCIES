@@ -1,0 +1,23 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-serial-processors
+
+
+From: 'an unknown organization'
+  - jSerialComm (http://fazecast.github.io/jSerialComm/) com.fazecast:jSerialComm:jar:2.5.1
+    License: GNU Lesser GPL, Version 3  (http://www.gnu.org/licenses/lgpl.html)    License: Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Apache NiFi Project' (http://nifi.apache.org/)
+  - nifi-utils (http://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.9.2
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons IO (http://commons.apache.org/proper/commons-io/) commons-io:commons-io:jar:2.5
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
